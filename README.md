@@ -1,5 +1,4 @@
 # AI-ARCHITECT
-# AI-ARCHITECT
 
 A collection of **AI Solution Architecture learning materials** and **reference artifacts** (slides, PDFs, and Word docs) to support training, workshops, and self-study on building real-world AI systems—from fundamentals (supervised learning) to end-to-end AI stack architecture.
 
