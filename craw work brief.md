@@ -51,7 +51,5 @@ Investment focus: expanding integrations, refining AI-driven insights, and scali
 
 ## Contact  
 **Prepared by:** Sunday Ayandele | AI Architect  
-**Company:** ClawWork Technologies  
-**Email Placeholder:** info@clawwork.ai  
 
-© 2026 ClawWork Technologies | All Rights Reserved
+©| All Rights Reserved
