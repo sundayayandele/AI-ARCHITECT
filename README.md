@@ -13,8 +13,8 @@ This repository currently includes:
 ### 📘 Reference Architecture & Guides
 - **AI Stack Reference Architecture (Word)**  
   `AI_Stack_Reference_Architecture.docx`
-- **BlueHarvest AI Model Guide (Word)**  
-  `BlueHarvest_AI_Model_Guide.docx`
+- **Sample AI Model Guide (Word)**  
+  `Sample_AI_Model_Guide.docx`
 
 ### 🎓 Training Slides & Chapters (CAISA / AI Architect Track)
 - `CAISA_L1_Chapter1.pptx`
@@ -62,7 +62,7 @@ This repository currently includes:
 4. **Architecture**
    - `AI_Stack_Reference_Architecture.docx`
 5. **Model & Platform Guide**
-   - `BlueHarvest_AI_Model_Guide.docx`
+   - `Sample_AI_Model_Guide.docx`
 
 ---
 
