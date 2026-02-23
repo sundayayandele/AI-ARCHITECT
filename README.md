@@ -83,10 +83,8 @@ Contributions are welcome via Pull Requests:
 
 ## License
 
-No license file has been added yet.  
-Until a license is included, default copyright rules apply.
-
-> If you want, add a license like **MIT** (open use) or **CC BY-NC 4.0** (training content with attribution, non-commercial).
+copyright rules apply.
+.
 
 ---
 
